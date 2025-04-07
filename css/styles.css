@@ -6,3 +6,17 @@
     rgba(253, 187, 45, 1) 100%
   ) !important;
 }
+
+/* .margin-right {
+  margin-right: 5px;
+ }
+.margin-left {
+  margin-left: 5px;
+} */
+ .merge {
+  margin: 8px;
+}
+
+.border-radius {
+  border-radius: 999px;
+}
